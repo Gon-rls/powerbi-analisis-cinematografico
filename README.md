@@ -64,12 +64,6 @@ Se creó además una medida DAX personalizada para el **ROI** (`SUM(gross) / SUM
 - La crítica no siempre coincide con la taquilla: géneros como *History* o *Musical* puntúan mejor de media.
 - La recaudación global crece de forma sostenida hasta un pico marcado en torno a 2008.
 
-##  Contenido del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `Power_Bi_Trabajo_Cinematografico.pbix` | Archivo original de Power BI (requiere Power BI para abrirse) |
-| `Documentacion_Proyecto_PowerBI_Cine.docx` | Documentación completa del proyecto |
 
 
 ##  Herramientas utilizadas
